@@ -11,3 +11,6 @@
 | :F | test :)) | love |
 
 <img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff.png">
+
+
+# Contact : eray@dxgkr.nl
