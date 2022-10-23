@@ -15,6 +15,5 @@
 
 <img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff.png">
 
-<img src = "https://i.imgur.com/OlJQG90.gif">
 ## Contact : contact@eray.codes
 ## Blog : [dxgkr.nl](http://dxgkr.nl/)
