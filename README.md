@@ -10,7 +10,7 @@
 |      Project 🛡   |     Description :bug:   | Tech 🛠 |
 |-------------|-------------------|---|
 | [ImGui External Overlay](https://github.com/3r4y/imgui-external-overlay)  | ⚡ ImGui External DirectX9 Overlay | C++ , ImGui, DirectX SDK |
-| [eray.codes](https://github.com/3r4y/3r4y.github.io)  | 👱‍♂️ simple personal website | HTML, Tailwind CSS |
+| [eray.codes](https://github.com/3r4y/3r4y.github.io)  | 👱‍♂️ simple personal website | React, Tailwind CSS |
 
 
 <img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff.png">
