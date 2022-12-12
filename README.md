@@ -16,4 +16,4 @@
 <img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff.png">
 
 ## Contact : contact@eray.codes / discord: Eray.#0441
-## Blog : [dxgkr.nl](http://dxgkr.nl/)
+## Blog : [dxgkr.nl](https://dxgkr.nl/) Personal page : [eray.codes](https://eray.codes/)
