@@ -23,4 +23,4 @@
 
 
 <img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff.png">
-<img  width=450  src="https://cdn.discordapp.com/attachments/1042091265988231220/1091119312082829452/absorbexodia_by_Walter_Crane_art_an_ascended_majestic_alone_god_5f952bd9-74d0-456b-bc9a-befc5833aa75.png">
+<img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff2.png">
