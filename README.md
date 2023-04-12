@@ -6,6 +6,7 @@
 
 ## I'm a full stack developer.
 
+### my open-source projects 🤗
 
 |      Project 🛡   |     Description :bug:   | Tech 🛠 | Star ⭐ |
 |-------------|-------------------|----|---|
@@ -13,6 +14,14 @@
 | [ImGui Blur Effect](https://github.com/3r4y/imgui-blur-effect)  | ⚡ ImGui External DirectX9 Blur Effect | C++ , ImGui, DirectX SDK | ![](https://img.shields.io/github/stars/3r4y/imgui-blur-effect) |
 | [DbgGPT](https://github.com/3r4y/DbgGPT)  | ⚙ DbgGPT - my first basic x64dbg plugin  | C++, openai-cpp, x64dbg-plugin-template | ![](https://img.shields.io/github/stars/3r4y/DbgGPT) |
 | [eray.codes](https://github.com/3r4y/3r4y.github.io)  | 👱‍♂️ simple personal website | React, Tailwind CSS | ![](https://img.shields.io/github/stars/3r4y/3r4y) |
+
+### my projects 🐲
+
+
+|      Project 🛡   |     Description :bug:   | Tech 🛠 | Status 🔵 |
+|-------------|-------------------|----|--|
+| [eray.codes](https://eray.codes)  | My personal page with information about me. | React, Tailwind CSS | ✅ Completed |
+| [dxgkr.nl](https://dxgkr.nl)  | modern software development blog archive. | NextJS, Tailwind CSS | ⚠ in development |
 
 
 <img align="left" src="https://www.github.com/3r4y.png" width="170" height="170" />
