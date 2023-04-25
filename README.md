@@ -31,5 +31,6 @@
 ## Blog : [dxgkr.nl](https://dxgkr.nl/) Personal page : [eray.codes](https://eray.codes/)
 ## full stack developer and reverse engineer
 
-![visitors](https://visitor-badge.laobi.icu/badge?3r4y=3r4y)
+![Visitor Count](https://profile-counter.glitch.me/3r4y/count.svg)
+
 <img width=450 src="https://raw.githubusercontent.com/3r4y/3r4y/main/ff.png">
