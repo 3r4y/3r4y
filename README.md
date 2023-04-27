@@ -12,7 +12,7 @@
 |-------------|-------------------|----|---|
 | [ImGui External Overlay](https://github.com/3r4y/imgui-external-overlay)  | ⚡ ImGui External DirectX9 Overlay | C++ , ImGui, DirectX SDK | ![](https://img.shields.io/github/stars/3r4y/imgui-external-overlay) |
 | [ImGui Blur Effect](https://github.com/3r4y/imgui-blur-effect)  | ⚡ ImGui External DirectX9 Blur Effect | C++ , ImGui, DirectX SDK | ![](https://img.shields.io/github/stars/3r4y/imgui-blur-effect) |
-| [DbgGPT](https://github.com/3r4y/DbgGPT)  | ⚙ DbgGPT - my first basic x64dbg plugin  | C++, openai-cpp, x64dbg-plugin-template | ![](https://img.shields.io/github/stars/3r4y/DbgGPT) |
+| [DbgGPT](https://github.com/3r4y/DbgGPT)  | 🏀 DbgGPT - my first basic x64dbg/openai plugin   | C++, openai-cpp, x64dbg-plugin-template | ![](https://img.shields.io/github/stars/3r4y/DbgGPT) |
 
 
 ### my projects 🐲
