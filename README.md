@@ -29,6 +29,7 @@
 
 
 ## contact@eray.codes / discord: kevindota2#4932
+## Community : https://discord.gg/29hUweM2rh
 ## Blog : [dxgkr.nl](https://dxgkr.nl/) Personal page : [eray.codes](https://eray.codes/)
 ## full stack developer and reverse engineer
 
