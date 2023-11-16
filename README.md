@@ -4,7 +4,7 @@
 
 
 
-## I'm a full stack developer.
+## I'm a full stack developer. I work as a game developer at uinptr.co
 
 ### my open-source projects 🤗
 
@@ -14,6 +14,7 @@
 | [ImGui Blur Effect](https://github.com/3r4y/imgui-blur-effect)  | ⚡ ImGui External DirectX9 Blur Effect | C++ , ImGui, DirectX SDK | ![](https://img.shields.io/github/stars/3r4y/imgui-blur-effect) |
 | [DbgGPT](https://github.com/3r4y/DbgGPT)  | 🏀 DbgGPT - basic x64dbg/openai plugin   | C++, openai-cpp, x64dbg-plugin-template | ![](https://img.shields.io/github/stars/3r4y/DbgGPT) |
 | [React Portfolio](https://github.com/3r4y/react-portfolio-template)  | 🧪 React & Tailwind portfolio template | React, Tailwind | ![](https://img.shields.io/github/stars/3r4y/react-portfolio-template) |
+| [React Weather App](https://github.com/3r4y/WindWhisper)  | ⛅ React & Tailwind Weather App example | React, Tailwind, OpenWeatherMap | ![](https://img.shields.io/github/stars/3r4y/WindWhisper) |
 
 
 ### my projects 🐲
@@ -22,7 +23,7 @@
 |      Project 🛡   |     Description :bug:   | Tech 🛠 | Status 🔵 |
 |-------------|-------------------|----|--|
 | [eray.codes](https://eray.codes)  | My personal page with information about me. | React, Tailwind CSS | ✅ Completed |
-| [dxgkr.nl](https://dxgkr.nl)  | modern software development blog archive. | NextJS, Tailwind CSS | ⚠ in development |
+| [dxgkr.nl](https://dxgkr.nl)  | modern software development blog archive. | NextJS, Tailwind CSS | 🟥 Killed |
 
 
 <img align="left" src="https://www.github.com/3r4y.png" width="170" height="170" />
@@ -30,8 +31,8 @@
 
 ## eraydev@outlook.com.tr / discord: kevindota
 ## Community : https://discord.gg/29hUweM2rh
-## Blog : [dxgkr.nl](https://dxgkr.nl/) Personal page : [eray.codes](https://eray.codes/)
-## full stack developer and reverse engineer
+## Personal page : [eray.codes](https://eray.codes/)
+## full stack developer and interested in Windows kernel development
 
 ![Visitor Count](https://profile-counter.glitch.me/3r4y/count.svg)
 
