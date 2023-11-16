@@ -22,7 +22,7 @@
 
 |      Project 🛡   |     Description :bug:   | Tech 🛠 | Status 🔵 |
 |-------------|-------------------|----|--|
-| [eray.codes](https://eray.codes)  | My personal page with information about me. | React, Tailwind CSS | ✅ Completed |
+| [eray.codes](https://eray.codes)  | My personal page with information about me. | React, Tailwind CSS | 🟠 Need update |
 | [dxgkr.nl](https://dxgkr.nl)  | modern software development blog archive. | NextJS, Tailwind CSS | 🟥 Killed |
 
 
