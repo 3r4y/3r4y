@@ -4,7 +4,7 @@
 
 
 
-## I'm a full stack developer. I work as a game developer at uinptr.co
+## I am a full stack developer, interested in Windows kernel development and low-level programming, at uintptr.co
 
 ### my open-source projects 🤗
 
@@ -23,7 +23,7 @@
 |      Project 🛡   |     Description :bug:   | Tech 🛠 | Status 🔵 |
 |-------------|-------------------|----|--|
 | [eray.codes](https://eray.codes)  | My personal page with information about me. | React, Tailwind CSS | 🟠 Need update |
-| [dxgkr.nl](https://dxgkr.nl)  | modern software development blog archive. | NextJS, Tailwind CSS | 🟥 Killed |
+| [dxgkr.nl](https://dxgkr.nl)  | modern software development blog archive. | NextJS, Tailwind CSS | 💀 F |
 
 
 <img align="left" src="https://www.github.com/3r4y.png" width="170" height="170" />
