@@ -3,7 +3,6 @@
 
 
 
-
 ## I am a full stack developer, interested in Windows kernel development and low-level programming, at uintptr.co
 
 ### my open-source projects 🤗
