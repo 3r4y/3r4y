@@ -14,7 +14,7 @@
 | [DbgGPT](https://github.com/3r4y/DbgGPT)  | 🏀 DbgGPT - basic x64dbg/openai plugin   | C++, openai-cpp, x64dbg-plugin-template | ![](https://img.shields.io/github/stars/3r4y/DbgGPT) |
 | [React Portfolio](https://github.com/3r4y/react-portfolio-template)  | 🧪 React & Tailwind portfolio template | React, Tailwind | ![](https://img.shields.io/github/stars/3r4y/react-portfolio-template) |
 | [React Weather App](https://github.com/3r4y/WindWhisper)  | ⛅ React & Tailwind Weather App example | React, Tailwind, OpenWeatherMap | ![](https://img.shields.io/github/stars/3r4y/WindWhisper) |
-| [PowerClone](https://github.com/3r4y/PowerClone)  | 🌀 Bulk download a GitHub user's repos | PowerShell | ![](https://img.shields.io/github/stars/3r4y/x) |
+| [PowerClone](https://github.com/3r4y/PowerClone)  | 🌀 Bulk download a GitHub user's repos | PowerShell | ![](https://img.shields.io/github/stars/3r4y/PowerClone) |
 
 
 ### my projects 🐲
