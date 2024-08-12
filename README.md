@@ -15,6 +15,7 @@
 | [React Portfolio](https://github.com/3r4y/react-portfolio-template)  | 🧪 React & Tailwind portfolio template | React, Tailwind | ![](https://img.shields.io/github/stars/3r4y/react-portfolio-template) |
 | [React Weather App](https://github.com/3r4y/WindWhisper)  | ⛅ React & Tailwind Weather App example | React, Tailwind, OpenWeatherMap | ![](https://img.shields.io/github/stars/3r4y/WindWhisper) |
 | [PowerClone](https://github.com/3r4y/PowerClone)  | 🌀 Bulk download a GitHub user's repos | PowerShell | ![](https://img.shields.io/github/stars/3r4y/PowerClone) |
+| [ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur)  | ❄ImGui, Gaussian Blur, OpenCV, DirectX11 | C++ , ImGui, Dx11, OpenCV | ![](https://img.shields.io/github/stars/3r4y/ImGuiGaussianBlur) |
 
 
 ### my projects 🐲
