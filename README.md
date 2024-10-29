@@ -3,7 +3,7 @@
 
 
 
-## I am a full stack developer, interested in Windows kernel development and low-level programming, at uintptr.co
+## I am a full stack developer, interested in Windows kernel development and low-level programming, at uintptr.dev
 
 ### my open-source projects 🤗
 
