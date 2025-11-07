@@ -22,4 +22,4 @@
 | [PowerClone](https://github.com/3r4y/PowerClone) | Bulk repository downloader |
 
 ## Links & Contact
-[Blog](https://3r4y.github.io) • [Website](https://uintptr.dev) • [Discord Server](https://discord.gg/29hUweM2rh) • **Email:** eraycodes@proton.me • **Discord:** kevindota
+[Blog](https://3r4y.github.io) • [Discord Server](https://discord.gg/29hUweM2rh) • **Email:** eraycodes@proton.me • **Discord:** kevindota
