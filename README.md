@@ -1,5 +1,4 @@
-# Eray.
-
+# Eray.  
 * C/C++ developer with focus on __low-level systems programming__
 * Specializing in __Windows internals__ and __kernel development__
 * Experience with __reverse engineering__ and __game security__
@@ -7,13 +6,11 @@
 * Background in __OS development__ and optimization
 
 ## Blog
-
 | Read |
 |------------|
-| [Reverse Engineering "MixMaster MMORPG"](https://3r4y.github.io/posts/mixmasterreverseengineering/)
+| [Reverse Engineering "MixMaster MMORPG"](https://3r4y.github.io/posts/mixmasterreverseengineering/) |
 
 ## Projects
-
 | Repository | Description |
 |------------|-------------|
 | [imgui-external-overlay](https://github.com/3r4y/imgui-external-overlay) | DirectX9 external overlay implementation |
@@ -24,11 +21,5 @@
 | [WindWhisper](https://github.com/3r4y/WindWhisper) | Weather application |
 | [PowerClone](https://github.com/3r4y/PowerClone) | Bulk repository downloader |
 
-## Links
-
-[Blog](https://3r4y.github.io) • [Website](https://uintptr.dev) • [Discord](https://discord.gg/29hUweM2rh)
-
-## Contact
-
-**Email:** eraycodes@proton.me  
-**Discord:** kevindota
+## Links & Contact
+[Blog](https://3r4y.github.io) • [Website](https://uintptr.dev) • [Discord Server](https://discord.gg/29hUweM2rh) • **Email:** eraycodes@proton.me • **Discord:** kevindota
