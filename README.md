@@ -15,8 +15,8 @@
 |------------|-------------|
 | [imgui-external-overlay](https://github.com/3r4y/imgui-external-overlay) | DirectX9 external overlay implementation |
 | [imgui-blur-effect](https://github.com/3r4y/imgui-blur-effect) | DirectX9 blur effect for ImGui |
+| [ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur) | DirectX11 Gaussian blur with OpenCV |
 | [DbgGPT](https://github.com/3r4y/DbgGPT) | OpenAI integration plugin for x64dbg |
-| [ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur) | Gaussian blur with DirectX11 and OpenCV |
 | [react-portfolio-template](https://github.com/3r4y/react-portfolio-template) | Portfolio template |
 | [WindWhisper](https://github.com/3r4y/WindWhisper) | Weather application |
 | [PowerClone](https://github.com/3r4y/PowerClone) | Bulk repository downloader |
