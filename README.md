@@ -1,28 +1,34 @@
-<img align="right" src="https://www.github.com/3r4y.png" width="170" height="170">
+# Eray.
 
-# Hi! I'm Eray 👋  
-**Full-stack dev. Desktop, Web and Mobile platforms.** | **Low-Level Enthusiast**  
-`uintptr.dev` · [3r4y.github.io](https://3r4y.github.io/) · [Discord](https://discord.gg/29hUweM2rh)
+* C/C++ developer with focus on __low-level systems programming__
+* Specializing in __Windows internals__ and __kernel development__
+* Experience with __reverse engineering__ and __game security__
+* Long-time __MMORPG__ modder and security researcher
+* Background in __OS development__ and optimization
 
----
+## Blog
 
-## 🛠️ Open-Source Projects
+| Read |
+|------------|
+| [Reverse Engineering "MixMaster MMORPG"](https://3r4y.github.io/posts/mixmasterreverseengineering/)
 
+## Projects
 
-|      Project 🛡   |     Description :bug:   | Tech 🛠 | Star ⭐ |
-|-------------|-------------------|----|---|
-| [ImGui External Overlay](https://github.com/3r4y/imgui-external-overlay)  | ⚡ ImGui External DirectX9 Overlay | C++ , ImGui, DirectX SDK | ![](https://img.shields.io/github/stars/3r4y/imgui-external-overlay) |
-| [ImGui Blur Effect](https://github.com/3r4y/imgui-blur-effect)  | ⚡ ImGui External DirectX9 Blur Effect | C++ , ImGui, DirectX SDK | ![](https://img.shields.io/github/stars/3r4y/imgui-blur-effect) |
-| [DbgGPT](https://github.com/3r4y/DbgGPT)  | 🏀 DbgGPT - basic x64dbg/openai plugin   | C++, openai-cpp, x64dbg-plugin-template | ![](https://img.shields.io/github/stars/3r4y/DbgGPT) |
-| [React Portfolio](https://github.com/3r4y/react-portfolio-template)  | 🧪 React & Tailwind portfolio template | React, Tailwind | ![](https://img.shields.io/github/stars/3r4y/react-portfolio-template) |
-| [React Weather App](https://github.com/3r4y/WindWhisper)  | ⛅ React & Tailwind Weather App example | React, Tailwind, OpenWeatherMap | ![](https://img.shields.io/github/stars/3r4y/WindWhisper) |
-| [PowerClone](https://github.com/3r4y/PowerClone)  | 🌀 Bulk download a GitHub user's repos | PowerShell | ![](https://img.shields.io/github/stars/3r4y/PowerClone) |
-| [ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur)  | ❄ImGui, Gaussian Blur, OpenCV, DirectX11 | C++ , ImGui, Dx11, OpenCV | ![](https://img.shields.io/github/stars/3r4y/ImGuiGaussianBlur) |
+| Repository | Description |
+|------------|-------------|
+| [imgui-external-overlay](https://github.com/3r4y/imgui-external-overlay) | DirectX9 external overlay implementation |
+| [imgui-blur-effect](https://github.com/3r4y/imgui-blur-effect) | DirectX9 blur effect for ImGui |
+| [DbgGPT](https://github.com/3r4y/DbgGPT) | OpenAI integration plugin for x64dbg |
+| [ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur) | Gaussian blur with DirectX11 and OpenCV |
+| [react-portfolio-template](https://github.com/3r4y/react-portfolio-template) | Portfolio template |
+| [WindWhisper](https://github.com/3r4y/WindWhisper) | Weather application |
+| [PowerClone](https://github.com/3r4y/PowerClone) | Bulk repository downloader |
 
+## Links
 
----
+[Blog](https://3r4y.github.io) • [Website](https://uintptr.dev) • [Discord](https://discord.gg/29hUweM2rh)
 
-## 📬 Contact
-`eraycodes@proton.me` · `Discord: kevindota`  
-![Visitor Count](https://profile-counter.glitch.me/3r4y/count.svg)
+## Contact
 
+**Email:** eraycodes@proton.me  
+**Discord:** kevindota
