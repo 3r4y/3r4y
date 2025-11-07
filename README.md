@@ -2,7 +2,7 @@
 
 # Hi! I'm Eray 👋  
 **Full-stack dev. Desktop, Web and Mobile platforms.** | **Low-Level Enthusiast**  
-`uintptr.dev` · [eray.codes](https://eray.codes) · [Discord](https://discord.gg/29hUweM2rh)
+`uintptr.dev` · [3r4y.github.io](https://3r4y.github.io/) · [Discord](https://discord.gg/29hUweM2rh)
 
 ---
 
