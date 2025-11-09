@@ -31,4 +31,4 @@
 </table>
 
 ### Links & Contact
-[Blog](https://3r4y.github.io) • [Discord Server](https://discord.gg/29hUweM2rh) • **Email:** eraycodes@proton.me • **Discord:** kevindota
+[Blog](https://3r4y.github.io) • [Discord Server](https://discord.gg/29hUweM2rh) • **Email:** eraycodes@proton.me • **Discord:** abakidev
